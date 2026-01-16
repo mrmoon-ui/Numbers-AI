@@ -1,0 +1,8 @@
+{
+  "name": "Numbers AI Newsroom",
+  "description": "A sophisticated AI-powered newsroom framework for article editing, proofreading, and title recommendation based on Bloter/Numbers editorial standards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
